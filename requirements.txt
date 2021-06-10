@@ -1,5 +1,5 @@
 aniso8601==7.0.0
-Django==2.2.19
+Django==2.2.24
 django-cors-headers==3.7.0
 django-environ==0.4.5
 django-summernote==0.8.11.6
